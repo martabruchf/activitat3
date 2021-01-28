@@ -3,7 +3,7 @@ Primer de tot instal·leu pycryptodome: pip3 install pycryptodome
 
 Després d'haver donat un cop d'ull a la teoria sobre l'encriptació simètrica AES mitjançant contrasenya i l'encriptació asimètrica RSA.
 
-Heu de programar les següents funcions en python:
+Heu de programar les següents funcions en PYTHON:
 1- Funció que generi el parell de claus RSA de 2048 bytes i les retorni.
 2- Funció que exporti una clau RSA (sigui privada o pública) en un fitxer .pem. Com a paràmetres s'ha de passar el nom o ruta del fitxer amb l'extensió .pem i la clau a exportar.
 3- Funció que importi una clau RSA (sigui privada o pública) a partir d'un fitxer .pem. Com a paràmetres s'ha de passar el nom o ruta del fitxer. Ha de retornar la clau.
