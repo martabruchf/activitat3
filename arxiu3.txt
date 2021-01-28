@@ -15,6 +15,6 @@ Heu de programar les següents funcions en python:
     - La mida del missatge ha de ser múltiple de 16 bytes, pots fer servir aquest codi per acabar de completar la mida amb espais: m += ' ' * (16 - len(m) % 16)
 8- Funció que desencripti un missatge mitjançant AES en mode CBC. Com a paràmetres s'ha de passar el missatge (que ja porta el iv al davant (16 bytes) i la clau. Retornarà el missatge desxifrat.
 
-Link d'ajuda:
+Link d'ajuda: NO-CONFLICTE
 Aquí pots trobar informació sobre com crear les funcions:
 https://www.pycryptodome.org
