@@ -7,7 +7,7 @@ Heu de programar les següents funcions en python:
 1- Funció que generi el parell de claus RSA de 2048 bytes i les retorni.
 2- Funció que exporti una clau RSA (sigui privada o pública) en un fitxer .pem. Com a paràmetres s'ha de passar el nom o ruta del fitxer amb l'extensió .pem i la clau a exportar.
 3- Funció que importi una clau RSA (sigui privada o pública) a partir d'un fitxer .pem. Com a paràmetres s'ha de passar el nom o ruta del fitxer. Ha de retornar la clau.
-4- Funció que encripti un missatge mitjançant RSA i retorni el missatge encriptat. Com a paràmetres s'ha de passar el missatge i la clau.
+4- Funció que encripti un missatge mitjançant RSA i retorni el missatge encriptat. Com a paràmetres s'ha de passar el missatge i la clau. MASTER
 5- Funció que desencripti un missatge mitjançant RSA i retorni el missatge desencriptat. Com a paràmetres s'ha de passar el missatge i la clau.
 6- Funció que generi una clau a partir de SHA256 i la retorni. No hi ha paràmetres però ha de demanar una contrasenya per la terminal.
 7- Funció que encripti un missatge mitjançant AES en mode CBC. Com a paràmetres s'ha de passar el missatge i la clau. Retornarà el vector d'inicialització concatenat amb el missatge xifrat.
